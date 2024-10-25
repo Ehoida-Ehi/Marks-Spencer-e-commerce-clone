@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": "a3e5",
+      "name": "ehi",
+      "email": "chatwithwema@yahoo.com",
+      "position": "hiring manager"
+    },
+    {
+      "id": "cded",
+      "name": "jenny",
+      "email": "chatwithwema@yahoo.com",
+      "position": "perm sec"
+    },
+    {
+      "id": "ed37",
+      "name": "John",
+      "email": "john@gmail.com",
+      "position": "manager  "
+    }
+  ]
+}

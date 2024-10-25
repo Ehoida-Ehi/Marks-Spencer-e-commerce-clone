@@ -1,0 +1,19 @@
+/* from home page */
+.blu-Cont {
+    margin: auto;
+    width: 90%;
+}
+ /* for details page */
+/* Hide scrollbar for WebKit browsers (Chrome, Safari) */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
+  
+  
